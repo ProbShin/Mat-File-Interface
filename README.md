@@ -1,5 +1,5 @@
-# MatIO
-A free to use project for read and write Matlab mat format using c++.(or python in future)
+# Studying MatIO
+A free to use project for read and write Matlab mat format using c++.
 
 Just include `MatIO.h`, `MatIO.cpp` and use. 
 
