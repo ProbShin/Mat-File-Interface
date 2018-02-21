@@ -7,7 +7,7 @@ Just include `MatIO.h`, `MatIO.cpp` and use.
 [Matlab Official Materials in Pdf](https://www.mathworks.com/help/pdf_doc/matlab/matfile_format.pdf "Matlab Official Materials")  
 [Mat Format wiki like Introduction](http://fileformats.archiveteam.org/wiki/MAT)
 
-The official c interface file are installed under 
+The official c interface example files are installed under 
 `
 matlabroot/extern/examples/eng_mat
 `
